@@ -1,6 +1,6 @@
-# Laravel E-Commerce Website
-A Computer Selling Wesbsite(E-Commerce) with Laravel 10.x
-## 🧰 Languages & Tools
+# SILVU TECHNOLOGIES INDIA
+DEALS IN AVIANTION AND FUTURE TECHNOLOGIES
+
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp;
 
